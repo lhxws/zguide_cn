@@ -1,7 +1,7 @@
 
 <A name="toc1-4" title="脴MQ - The Guide ZeroMQ指南" />
-脴MQ - The Guide
-===============
+脴MQ - The Guide ZeroMQ指南
+===========================
 
 Written by Pieter Hintjens <ph@imatix.com>, CEO iMatix Corporation.
 
